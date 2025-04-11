@@ -1,0 +1,77 @@
+# Trade Wars & Turbulence: Heavy as BRICS
+
+This project explores how major geopolitical events, global trade wars, and the rise of BRICS countries have impacted global economies — especially developing nations. It includes data-driven insights and visualizations based on simulated but realistic trade data from 2010 to 2025.
+
+---
+
+## Project Layout
+trade-wars-turbulence-heavy-as-brics/ │
+ 
+├── data/ │ ├── raw/ ← Raw CSV files (brics_trade_data_enriched_final.csv) │ └── processed/ ← Cleaned/ready-to-analyze data │ 
+
+├── notebooks/ │ ├── exploratory-analysis.ipynb ← Data exploration & trends │ └── forecasting-models.ipynb ← Future projections and modeling │ 
+
+├── presentation/ ← Ready-to-share insights and summary visuals │ 
+
+├── src/ ← Python scripts for data cleaning and analysis │ ├── data_cleaning.py │ ├── data_fetching.py │ └── analysis_utils.py │ 
+
+├── visuals/ │ ├── graphs/ ← Charts and plots │ └── dashboards/ ← Future dashboard output 
+
+└── README.md
+
+
+
+**Note**: `.gitkeep` files are used to preserve empty folders in GitHub.
+
+---
+
+##  Getting Started
+
+### 1. Clone the Repository
+       ```bash
+       git clone https://github.com/ChristianFreemantle/Trade-Wars-Turbulence-Heavy-as-BRICS.git
+    2. Navigate to the Project
+       cd trade-wars-turbulence-heavy-as-brics
+    3. Launch Jupyter Notebook
+       jupyter notebook
+       #If the browser doesn’t open automatically, copy the link from your terminal and paste it into Chrome.
+
+Understanding the Data
+The main dataset is a CSV file located in data/raw/brics_trade_data_enriched_final.csv.
+
+Column	                                    Explanation
+
+Exports_USD_Billion	                    How much the country sold in one year (billions of USD)
+Imports_USD_Billion	                    How much the country bought in one year (billions of USD)
+GDP_USD_Trillion	                    Total value of all goods/services in a year (trillions of USD)
+Trade_Balance	                            Exports - Imports = Profit or Loss
+Sanctions_Impact_Index	                    Score (0–100) showing how much a country is affected by sanctions
+Currency_Stability_Index	            Score (0–100) showing how stable the country's currency is
+Trade_Partners	                            Number of major countries traded with
+Notes	                                    Context like wars, trade deals, political changes (e.g. “US-China Trade War”)
+Sanctions_Imposed_By	                    Countries that issued sanctions
+Sanction_Reason	                            Why sanctions were imposed
+
+Insights Covered
+Impact of the US-China Trade War
+
+BRICS economic trends and political shifts
+
+Sanctions and their effect on trade balances
+
+Country-by-country analysis of GDP and exports
+
+South Africa’s economic narrative including World Cup boosts and corruption cases
+
+Contributions
+Contributions and feedback are welcome — this is a learning-based portfolio project!
+
+License
+This project is for educational use. Please credit if reusing parts of the structure or data logic.
+
+
+
+### Author
+Christian Freemantle 
+Data Analyst | Agriculture & Finance | Based in KZN  
+https://www.linkedin.com/in/christian-freemantle/ | christianfreemantle@gmail.com
