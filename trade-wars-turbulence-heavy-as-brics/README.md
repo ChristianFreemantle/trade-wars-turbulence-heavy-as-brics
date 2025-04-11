@@ -14,7 +14,8 @@ This project investigates the economic impact of global trade wars, focusing on:
 - Forecast future trends using machine learning models
 
 ### Tools
-- Python 
+- Python
+- Panda, Jupyter
 - SQL (BigQuery)
 - Tableau 
 - GitHub for version control
