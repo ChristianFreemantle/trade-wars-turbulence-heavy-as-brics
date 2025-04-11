@@ -1,0 +1,96 @@
+Year,Country,Exports_USD_Billion,Imports_USD_Billion,GDP_USD_Trillion,Trade_Balance,Sanctions_Impact_Index,Currency_Stability_Index,Trade_Partners,Notes,Sanctions_Imposed_By,Sanction_Reasons
+2010,Brazil,1606.09,1798.23,1.97,-192.14,1,66,15,Stable global trade operations. ,N/A,N/A
+2010,Russia,1773.34,248.13,15.92,1525.21,7,61,5,Travel bans and asset freezes on officials,USA,Human rights abuses (Magnitsky Act)
+2010,India,227.52,252.16,17.78,-24.64,12,58,9,Stable global trade operations. ,N/A,N/A
+2010,USA,1400,1800,15,-400,10,90,80,Stable global trade operations. Managed trade balance and economic growth in 2010.,N/A,N/A
+2010,China,1009.07,1245.04,4.31,-235.97,9,79,22,"IP theft, unfair subsidies, cyber activity","USA, EU","WTO disputes, anti-dumping tariffs"
+2010,South Africa,2233.52,2001.59,7.04,231.93,13,57,8,Stable global trade operations. ,N/A,N/A
+2011,Brazil,950.7,348.2,6.29,602.5,15,77,18,Stable global trade operations. ,N/A,N/A
+2011,Russia,1946.91,1993.64,16.96,-46.73,31,73,21,Stable global trade operations. ,N/A,N/A
+2011,India,613.74,818.22,17.38,-204.48,59,59,7,Energy import restrictions,USA (Iran sanctions),Iran oil import workaround
+2011,USA,1440,1835,15.55,-395,13,89,81,Stable global trade operations. Managed trade balance and economic growth in 2011.,N/A,N/A
+2011,China,272.85,611.1,13.21,-338.25,75,77,19,"IP theft, unfair subsidies, cyber activity","USA, EU","WTO disputes, anti-dumping tariffs"
+2011,South Africa,580.56,1784.54,16.35,-1203.98,69,63,23,Stable global trade operations.,N/A,N/A
+2012,Brazil,264.14,1510.49,11.93,-1246.35,53,89,20,WTO Dispute with USA,USA,U.S. cotton subsidies ruled unfair by WTO (dating back to early 2000s)
+2012,Russia,1099.74,1566.05,5.98,-466.31,88,68,10,Stable global trade operations  ,N/A,N/A
+2012,India,579.09,679.86,8.81,-100.77,90,78,9,Energy import restrictions,USA (Iran sanctions),Iran oil import workaround
+2012,USA,1480,1870,16.1,-390,16,88,82,Stable global trade operations. Managed trade balance and economic growth in 2012.,N/A,N/A
+2012,China,1565.08,1022.37,3.75,542.71,3,64,13,"IP theft, unfair subsidies, cyber activity","USA, EU","WTO disputes, anti-dumping tariffs"
+2012,South Africa,1190.6,1957.52,5.24,-766.92,32,97,5,Strikes in mining sector disrupted exports,N/A,N/A
+2013,Brazil,1557.03,101.29,5.3,1455.74,38,80,14,WTO Dispute with USA,USA,U.S. cotton subsidies ruled unfair by WTO (dating back to early 2000s)
+2013,Russia,1335.44,883.88,17.07,451.56,93,85,13,Stable global trade operations.,N/A,N/A
+2013,India,936.85,293.49,9.41,643.36,79,64,20,Energy import restrictions,USA (Iran sanctions),Iran oil import workaround
+2013,China,1523.65,761.13,4.58,762.52,12,72,14,"IP theft, unfair subsidies, cyber activity","USA, EU","WTO disputes, anti-dumping tariffs"
+2013,South Africa,926.76,863.64,5.13,63.12,58,98,20,U.S. AGOA Trade Uncertainty,USA,Concerns over poultry import restrictions and intellectual property law issues
+2014,Brazil,201.78,700.43,17.09,-498.65,56,64,9,Stable global trade operations.,N/A,N/A
+2014,Russia,385.48,364.23,9.28,21.25,27,95,24,Sanctions over Crimea impacted trade flows,"USA, EU, UK, Canada",Annexation of Crimea
+2014,India,173.41,1743.31,15.38,-1569.9,18,72,18,Stable global trade operations,N/A,N/A
+2014,USA,1560,1940,17.2,-380,22,86,84,Stable global trade operations. Managed trade balance and economic growth in 2014.,N/A,N/A
+2014,China,227.75,1319.01,10.5,-1091.26,55,58,14,"IP theft, unfair subsidies, cyber activity","USA, EU","WTO disputes, anti-dumping tariffs"
+2014,South Africa,1155.26,1328.61,10.36,-173.35,8,56,24,U.S. AGOA Trade Uncertainty,USA,Concerns over poultry import restrictions and intellectual property law issues
+2015,Brazil,214.77,2063.66,3.44,-1848.89,26,67,6,Political scandal and recession reduced trade,N/A,N/A
+2015,Russia,578.04,1335.3,16.49,-757.26,62,61,19,"Oil price collapse, deep export losses","EU, USA",Crimea & Eastern Ukraine continued conflict
+2015,India,882.28,1554.23,10.41,-671.95,86,70,20,Stable global trade operations,N/A,N/A
+2015,USA,1500,2200,18.2,-700,10,95,80,Maintained global trade dominance. Imposed AGOA-related warnings on South Africa over poultry imports.,N/A,N/A
+2015,China,292.23,591.57,15.66,-299.34,45,85,10,Stable global trade operations.,N/A,N/A
+2015,South Africa,1580.99,1301.79,13.13,279.2,2,54,16,U.S. AGOA Trade Uncertainty,USA,Concerns over poultry import restrictions and intellectual property law issues
+2016,Brazil,1236.4,1389.12,13.48,-152.72,46,63,8,Stable global trade operations.,N/A,N/A
+2016,Russia,1908.38,1480.34,16.99,428.04,79,53,17,"Sanctions on GRU (military intel), FSB, cyber actors",USA,Election interference (2016 US Elections)
+2016,India,1673.03,1269.42,7.4,403.61,89,56,7,GST reform disrupted internal trade temporarily,N/A,N/A
+2016,USA,1640,2010,18.3,-370,13,89,81,Stable global trade operations. Managed trade balance and economic growth in 2016.,N/A,N/A
+2016,China,1543.45,2076.68,16.67,-533.23,66,81,19,Stable global trade operations.,N/A,N/A
+2016,South Africa,2199.99,1705.83,14.67,494.16,44,74,12,South Africa complied and kept AGOA status,USA,Concerns over poultry import restrictions and intellectual property law issues
+2017,Brazil,1949.01,828.81,13.11,1120.2,20,97,8,Stable global trade operations.,N/A,N/A
+2017,Russia,1948.6,949.5,17.04,999.1,8,91,11,Stable global trade operations,N/A,N/A
+2017,India,991.77,1449.28,2.31,-457.51,20,63,23,Stable global trade operations,N/A,N/A
+2017,USA,1680,2045,18.85,-365,16,88,82,Stable global trade operations. Managed trade balance and economic growth in 2017.,N/A,N/A
+2017,China,1169.5,754.88,3.16,414.62,62,64,9,Stable global trade operations.,N/A,N/A
+2017,South Africa,935.06,544.18,7.17,390.88,77,62,22,Stable global trade operations.,N/A,N/A
+2018,Brazil,1726.89,1935.74,10.93,-208.85,62,90,21,"Truckers strike disrupted exports, EU-Mercosur Trade Agreement Blocked","European Union (France, Germany, Austria led)",Concerns over Amazon deforestation and Bolsonaro’s environmental policies
+2018,Russia,2309.68,1014.06,4.9,1295.62,100,57,8,Financial and diplomatic sanctions,"USA, UK",Poisoning of Skripal and cyber threats
+2018,India,362.93,2160.87,3.2,-1797.94,1,61,6,Military procurement pressure,USA (CAATSA threat),S-400 defense deal with Russia
+2018,USA,1550,2350,20.5,-800,15,92,90,Launched U.S.-China trade war with heavy tariffs on Chinese goods.,China (retaliatory tariffs),US-initiated trade conflict
+2018,China,1157.06,645.67,9.11,511.39,80,79,13,"Start of U.S.-China trade war. U.S. imposed tariffs on steel, aluminum, electronics,$550B tariffs, tech bans",USA,"Trade war, tech transfer, trade imbalance"
+2018,South Africa,392.73,778.57,16.3,-385.84,39,56,19,Political uncertainty under President Ramaphosa's early leadership; investment slowed. Political Criticism Over Corruption,"Western media, investment firms (not official sanctions)","Zuma-era corruption, Gupta influence, and ""State Capture"""
+2019,Brazil,353.43,1262.41,9.58,-908.98,75,63,7,Benefited from US-China trade war by exporting soy and beef to China.EU-Mercosur Trade Agreement Blocked,"European Union (France, Germany, Austria led)",Concerns over Amazon deforestation and Bolsonaro’s environmental policies
+2019,Russia,2294.46,1601.47,15.6,692.99,50,53,13,Stable global trade operations.,N/A,N/A
+2019,India,2393.49,1415.33,6.03,978.16,9,63,22,Export trade restrictions,USA,GSP trade privileges removed
+2019,USA,1760,2115,19.95,-355,22,86,84,Stable global trade operations. Managed trade balance and economic growth in 2019.,N/A,N/A
+2019,China,1722.89,1070.01,5.96,652.88,63,62,10,"Trade war escalated, tariffs impacted exports,Trade war, tech transfer, trade imbalance","USA, UK, EU, Canada","Escalated trade war, tech export bans"
+2019,South Africa,790.87,1633.33,11.21,-842.46,58,59,20,Load shedding disrupted production Eskom power cuts hit productivity; Moody’s credit downgrade fears.,"Western media, investment firms (not official sanctions)","Zuma-era corruption, Gupta influence, and ""State Capture"""
+2020,Brazil,638.93,2028.35,12.81,-1389.42,81,75,15,EU-Mercosur Trade Agreement Blocked,"European Union (France, Germany, Austria led) ",Concerns over Amazon deforestation and Bolsonaro’s environmental policies
+2020,Russia,2193.52,189.36,16.23,2004.16,4,88,15,Targeted official-level sanctions,"USA, EU",Navalny poisoning and opposition suppression
+2020,India,2334.8,1862.29,1.85,472.51,71,54,7,App and tech import bans,India (vs China),"Border conflict, tech bans"
+2020,USA,1800,2150,20.5,-350,10,90,80,Stable global trade operations. Managed trade balance and economic growth in 2020.,N/A,N/A
+2020,China,1566.05,132.56,5.94,1433.49,92,84,16,"COVID-19 led to early recovery, export surge in medical goods, disrupted supply chains; China ramped up exports of medical goods; internal lockdowns reduced productivity, Trade war, tech transfer, trade imbalance",USA,"Trade war, tech transfer, trade imbalance"
+2020,South Africa,421.3,1685.57,7.09,-1264.27,79,60,23,COVID-19 pandemic led to lockdowns; trade halted; economy contracted sharply.,"Western media, investment firms (not official sanctions)","Zuma-era corruption, Gupta influence, and ""State Capture"""
+2021,Brazil,2257.71,834.63,17.5,1423.08,21,85,15,International Environmental Pressure,"Norway, Germany, EU Parliament",Destruction of Amazon rainforest and rollback of environmental protections
+2021,Russia,1644.33,1398.47,3.54,245.86,24,98,17,Stable global trade operations.,N/A,N/A
+2021,India,1313.13,1766.75,7.09,-453.62,55,66,22,Post-COVID growth spurt; benefited from global firms diversifying away from China.,India (vs China),"Border conflict, tech bans"
+2021,USA,1840,2185,21.05,-345,13,89,81,Stable global trade operations. Managed trade balance and economic growth in 2021.,N/A,N/A
+2021,China,2372.7,1956.16,9.62,416.54,40,56,8,Stable global trade operations.,N/A,N/A
+2021,South Africa,904.49,114.12,17.26,790.37,99,71,18,Economic rebound post-COVID; mining exports strong; unrest in July affected sentiment.,USA (minor export controls),Concerns over cyber trade and arms links
+2022,Brazil,2394.42,1361.17,15.64,1033.25,48,77,5,US & UN Climate-Linked Criticism,"USA, UN bodies, European investors",Brazil’s unclear commitments to climate targets and indigenous rights
+2022,Russia,2379,680.06,8.79,1698.94,77,62,12,"Ukraine invasion triggered broad sanctions; pivot to China, India and BRICS trade intensified.","USA, EU, UK, Japan, Canada, Australia",Invasion of Ukraine
+2022,India,1001.6,2105.38,2.89,-1103.78,24,62,12,Oil price spike due to geopolitical tensions,Western powers (soft),Neutrality in Ukraine war
+2022,USA,1800,2450,23.6,-650,20,89,85,Sanctioned Russia following Ukraine invasion; increased defense spending.,N/A,N/A
+2022,China,1729.19,1409.46,7.37,319.73,1,72,22,Supply chain issues and lockdown-related slowdowns,"USA, EU (partial)",Human rights violations (Xinjiang)
+2022,South Africa,1125.84,1344.24,5.97,-218.4,55,72,9,Ukraine war drove global commodity prices; SA benefited from platinum/gold exports.,EU (indirect investment caution),Concerns about Russia ties and non-alignment on Ukraine
+2023,Brazil,2043.18,1875.15,5.57,168.03,11,97,17,Hosted BRICS+ trade initiatives; increased Chinese investment in infrastructure.,USA (scrutiny),Concerns over deforestation and environmental policy
+2023,Russia,764.64,1909.69,5.68,-1145.05,74,57,12,"Severe sanctions, trade partners reduced, Economy adapted to sanctions via parallel imports; oil trade with China and India surged.","USA, EU, allies,G7","Sanctions extended, price caps on oil exports"
+2023,India,1593.4,2036.29,16.66,-442.89,98,52,14,Continued economic reforms; tension with China over border skirmishes; strong BRICS ties.,China (minor trade limits),Border security concerns
+2023,USA,1920,2255,22.15,-335,19,87,83,Stable global trade operations. Managed trade balance and economic growth in 2023.,N/A,N/A
+2023,China,1366.82,286.3,5.46,1080.52,39,93,21,Continued tech decoupling from U.S.; growing trade with BRICS and Global South nations,"USA, EU (tech)","National security concerns, semiconductor ban"
+2023,South Africa,190.2,1510.63,1.74,-1320.43,69,61,25,"Load shedding intensified; greylisting by FATF affected investor confidence, Greylisting by FATF affected international confidence. BRICS expansion talks underway; political tensions high.",FATF greylist,Money laundering controls insufficient
+2024,Brazil,1556.2,571.25,5.54,984.95,31,93,14,Currency volatility impacted imports,N/A,N/A
+2024,Russia,173.31,2167.98,9.83,-1994.67,91,94,22,"Military tech supply reduced, sanctions extended","EU, China (indirect)",Continuation of war and global instability
+2024,India,2164.28,1682.28,13.59,482,11,97,16,"Diplomatic pressure, monitoring	",Western powers (soft),Neutrality in Ukraine war
+2024,USA,1960,2290,22.7,-330,22,86,84,Stable global trade operations. Managed trade balance and economic growth in 2024.,N/A,N/A
+2024,China,942.83,1951.08,16.62,-1008.25,21,85,14,"Tech embargo, strategic controls","USA, Japan, Netherlands, EU","Chip/AI export bans, Taiwan tensions"
+2024,South Africa,1744.48,505.5,15.21,1238.98,69,90,23,"Energy crisis reduced industrial output, BRICS summit hosted in Cape Town boosted global exposure; elections created policy uncertainty.","Internal tension, EU caution,EU observers, financial analysts","Political uncertainty, alignment with Russia-China bloc,Growing alignment with Russia and China (neutrality in Ukraine war),BRICS currency discussions (seen as challenge to USD-dominated system),ANC losing majority and entering coalition, causing short-term political instability"
+2025,Brazil,1785.14,1128.82,17.5,656.32,10,79,18,Brazil Returns to Favor Post-Election,International investors (positive shift),New leadership committing to climate goals and international cooperation
+2025,Russia,2076.28,2078.63,4.37,-2.35,74,90,16,"Ongoing isolation, limited recovery","USA, EU, G7",Persistent aggression and cyber-attacks
+2025,India,1508.96,1587.7,10.92,-78.74,69,50,13,Growing domestic demand led to higher imports,USA Tech + EU privacy,Data law changes affecting international firms
+2025,USA,1950,2550,25.2,-600,25,90,88,Continued tech decoupling from China. Monitored South Africa over BRICS alignment.,China (expanded retaliation),Technology export restrictions
+2025,China,1658.94,1197.54,3.27,461.4,74,88,10,"Currency tightening and manufacturing shift impacted exports, Currency monitoring, finance pressure","G7, USA","BRICS de-dollarization, financial independence push"
+2025,South Africa,1607.59,244.05,5.03,1363.54,97,70,19,Economic slowdown due to reduced commodity prices; BRICS currency adoption debates increased volatility.,EU (monitoring),"Concerns over non-alignment and fiscal transparency, Growing alignment with Russia and China (neutrality in Ukraine war),BRICS currency discussions (seen as challenge to USD-dominated system),ANC losing majority and entering coalition, causing short-term political instability"
