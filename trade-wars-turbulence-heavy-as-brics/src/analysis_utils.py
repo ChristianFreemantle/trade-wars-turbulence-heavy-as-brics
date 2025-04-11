@@ -91,7 +91,7 @@ plt.legend(title="Country")
 plt.tight_layout()
 plt.show()
 
-#Create USA vs China: Imports & Exports figure table charts
+#Create USA vs China: Imports & Exports figure bar charts
 import matplotlib.pyplot as plt
 import numpy as np
 
@@ -192,7 +192,7 @@ plt.suptitle("USA vs China — Trade War Dashboard (2018–2025)", fontsize=16)
 plt.tight_layout(rect=[0, 0.03, 1, 0.95])
 plt.show()
 
-#Create South Africa Trade Balance (2010–2025) — Government Impact
+#Create South Africa Trade Balance (2010–2025) — Government Impact Bar Chart
 import matplotlib.pyplot as plt
 
 
