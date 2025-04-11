@@ -27,5 +27,5 @@ This project investigates the economic impact of global trade wars, focusing on:
 ---
 ### Author
 Christian Freemantle 
-Data Analyst | Agriculture & Finance | Based in KZN  
+Data Analyst | Agriculture | Based in KZN  
 https://www.linkedin.com/in/christian-freemantle/ | christianfreemantle@gmail.com
