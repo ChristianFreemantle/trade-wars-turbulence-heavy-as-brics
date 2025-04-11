@@ -15,7 +15,7 @@ This project investigates the economic impact of global trade wars, focusing on:
 
 ### Tools
 - Python
-- Panda, Jupyter
+- Pandas, Jupyter
 - SQL (BigQuery)
 - Tableau 
 - GitHub for version control
